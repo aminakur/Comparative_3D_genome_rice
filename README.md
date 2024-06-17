@@ -9,7 +9,7 @@ Created: June 14, 2024 2:06 PM Created By: Amina Kurbidaeva Last Edited:
 ## Manifest
 
 ### /scripts
-- Ipython/Jupyter notebooks for analysis
+- Ipython/Jupyter notebooks, bash, batch, R and python scripts for analysis
 
 ### /data
 
