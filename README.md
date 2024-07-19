@@ -17,6 +17,4 @@ Last Edited:
 
 ### /figures
 
-### /scripts
-
 ### /results
