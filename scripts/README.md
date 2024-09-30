@@ -90,16 +90,17 @@ R, python, bash, batch scripts
 - Distance decay curves
     - Distance decay curves.ipynb
 
+- Comparison of Micro-C maps with CHESS
+    - Whole-genome-lifted-analysis-all.ipynb
+    - NPB-Omer.ipynb
+    - CHESS_example_analysis.ipynb
+    - NPB-Omer_tails_analysis.ipynb (includes Calculating sequence similarity)
+    - NPB-Oruf_tails_analysis.ipynb (includes Calculating sequence similarity)
+      
 - Other scripts
     - Extracting features from GFF for plotting.ipynb
     - Gene orientation at boundaries.ipynb
     - Genes_per_TAD.ipynb
     - How many promoters or genes in boundaries.ipynb
     - Nextflow_example.ipynb
-
-- Comparison of Micro-C maps with CHESS
-    - Whole-genome-lifted-analysis-all.ipynb
-    - NPB-Omer.ipynb
-    - CHESS_example_analysis.ipynb
-    - NPB-Omer_tails_analysis.ipynb
-    - NPB-Oruf_tails_analysis.ipynb
+    - Extract sequences.ipynb - extract .fna sequences from the genome using .bed coordinates
