@@ -10,6 +10,9 @@ R, python, bash, batch scripts
     - hitad.sbatch - HiTAD
     - meta_file10kb - example meta file for HiTAD
       
+- Compartment calling with FAN-C
+    - ABcompartments.ipynb
+      
 - TAD plotting with HiCExplorer
     - hicPlotTADs.sh
     - tracks_marks_bw.ini
@@ -104,3 +107,7 @@ R, python, bash, batch scripts
     - How many promoters or genes in boundaries.ipynb
     - Nextflow_example.ipynb
     - Extract sequences.ipynb - extract .fna sequences from the genome using .bed coordinates
+    - Compare GC and methylation in TADs/boundaries - tad.nontad.br.methyl.phast.rho.R
+    -  Plotting in R - Plots.R
+    -  Gene expression CV calculation - GeneExpVariabiloty_TadsvsnonTads.R
+    -  Identify genes within TADs/nonTADs, classify genome into TAD, boundary, nonTAD - TAD-nonTAD.genes.R
