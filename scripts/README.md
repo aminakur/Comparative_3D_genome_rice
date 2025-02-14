@@ -111,3 +111,4 @@ R, python, bash, batch scripts
     -  Plotting in R - Plots.R
     -  Gene expression CV calculation - GeneExpVariabiloty_TadsvsnonTads.R
     -  Identify genes within TADs/nonTADs, classify genome into TAD, boundary, nonTAD - TAD-nonTAD.genes.R
+    -  Extracting genes in strong-weak boundaries and GO term analysis
