@@ -1,7 +1,7 @@
 # README
-Created: June 14, 2024 2:06 PM   
+Created: June 14, 2024   
 Created By: Amina Kurbidaeva   
-Last Edited:  September 9, 2024 2:28 PM
+Last Edited:  February 17, 2025
 
 
 ## About
@@ -11,13 +11,16 @@ Last Edited:  September 9, 2024 2:28 PM
 
 ## Manifest
 
-### /scripts
-- Ipython/Jupyter notebooks, bash, batch, R and python scripts for analysis
-
 ### /data
-
+- bed, bedgraph, bw, fasta files
+- 
 ### /figures
 
 ### /results
+
+### /scripts
+- Ipython/Jupyter notebooks, bash, batch, R and python scripts for analysis
+
+### /supplementary_figures
 
 ### /tables
