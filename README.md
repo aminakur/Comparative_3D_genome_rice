@@ -13,7 +13,7 @@ Last Edited:  February 17, 2025
 
 ### /data
 - bed, bedgraph, bw, fasta files
-- 
+
 ### /figures
 
 ### /results
