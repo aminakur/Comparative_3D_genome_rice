@@ -6,8 +6,8 @@ Last Edited:  February 17, 2025
 
 ## About
 
-- Code, data and figures for Kurbidaeva et al. “Topologically associating domains and the evolution of 3D genome architecture in rice”
-- Manuscript preprint: [TBD]
+- Code, data and figures for Kurbidaeva et al. “Topologically associating domains and the evolution of three-dimensional genome architecture in rice”
+- Manuscript: https://doi.org/10.1111/tpj.70139
 
 ## Manifest
 
